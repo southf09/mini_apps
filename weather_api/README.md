@@ -1,0 +1,1 @@
+This is a small weather script that will give weather updates for specified locations.
